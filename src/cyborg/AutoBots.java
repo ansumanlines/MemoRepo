@@ -6,8 +6,14 @@ public class AutoBots {
 	
 		System.out.println("Hello World");
 		System.out.println("Hi World");
-		System.out.println("Bye World");
+		System.out.println("Memo World");
+		
+
 
 	}
-
+	public static void Memovehicles()
+	{
+		System.out.println("Memo Mustang");
+		System.out.println("Memo GMC");
+	}
 }

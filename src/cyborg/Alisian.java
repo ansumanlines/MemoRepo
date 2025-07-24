@@ -1,10 +1,10 @@
 package cyborg;
 
-public class MemoBots {
+public class Alisian {
 
 	public static void main(String[] args) {
-	
-		System.out.println("Temp Memo");
+
+		System.out.println("Memo Temp");
 
 	}
 
